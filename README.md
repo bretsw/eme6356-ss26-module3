@@ -1,2 +1,5 @@
-# eme6356-ss26-module3
-Slide deck for EME6356, Module 3: Learning Analytics (Spring 2026) 
+# EME6356 Module 3: Learning Analytics
+
+Slide deck for **EME6356, Module 3: Learning Analytics** (Spring 2026)
+
+![](img/3-learning-analytics.jpg)
